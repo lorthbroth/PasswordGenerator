@@ -1,10 +1,10 @@
 # PasswordGenerator
 
 ## Core concepts practised
-> *Arrays
-> *Random numbers
-> *Functions
-> *ASCII
-> *Loops
-> *Conditionals
+*Arrays
+*Random numbers
+*Functions
+*ASCII
+*Loops
+*Conditionals
 
